@@ -17,3 +17,11 @@ npm install
 npm run start
 ```
 ## Explanation
+
+The app has all the basic features of a Tic Tac Toe Game. Like 
+1. Time Travel
+2. Displaying move locations
+3. Movelist with sorting
+4. Highlighting winning squares
+
+And I have attempted to implement the bonus but it doesn't work to the full extent. 
